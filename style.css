@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    color: crimson;
+    text-align: center;
+}
+h2{
+    color: rgb(119, 4, 27);
+    text-align: center;
+    
+}
+.about{
+    background-color: rgb(240, 235, 226);
+    color: black;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+}
+.work{
+    background-color: rgb(240, 235, 226);
+    color: black;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+.hobby{
+    background-color: rgb(197, 236, 191);
+    color: black;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+.sport{
+    background-color: rgb(167, 228, 243);
+    color: black;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+}
+
+img {
+    width: 200px;
+    height: 180px;
+    border: 0;
+    }
+a {
+    color:rgb(26, 23, 23);
+    font-size: 23px;
+    text-decoration: none;
+    position: right;
+}    
+
+.socmedia{
+    text-align: center;
+    background-color: azure;
+}
+
+.logo{
+    width: 60px;
+    height: 60px;
+}
+
